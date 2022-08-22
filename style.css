@@ -1,0 +1,24 @@
+.btn {
+    border-radius: 10px;
+    background-color: antiquewhite;
+    color: black;
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result {
+    text-align: center;
+}
+
+.allbtn {
+    margin-left: 45%;
+    margin-top: 10px;
+}
